@@ -1,6 +1,6 @@
 # Electricar Board
 ![235306075-67fb6e5a-2327-48a5-9b9d-f8825958c326](https://user-images.githubusercontent.com/116454667/235316952-dce44fa7-b32e-4f1e-808c-82a9d661d4a5.png)
-This is an application to see our car's data with port connection(LoRa) or internet connection(Google sheets) and save logs every 500 ms.
+This is an application develop with DevExpress to see our car's data with port connection(LoRa) or internet connection(Google sheets) and save logs every 500 ms. 
  
 ## Convert Data's Type
 ![Ekran görüntüsü 2023-04-29 211153](https://user-images.githubusercontent.com/116454667/235317865-0b70507f-ccf8-46a5-ad79-5008af6c395c.png)
