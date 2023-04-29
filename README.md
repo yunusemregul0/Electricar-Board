@@ -5,11 +5,6 @@ This is an application develop with DevExpress to see our car's data with port c
 ## Convert Data's Type
 ![Ekran görüntüsü 2023-04-29 211153](https://user-images.githubusercontent.com/116454667/235317865-0b70507f-ccf8-46a5-ad79-5008af6c395c.png)
 
-## Devices
-![WhatsApp Image 2023-04-29 at 19 23 20](https://user-images.githubusercontent.com/116454667/235317897-74a7c742-dbf3-4935-93a3-8688a194c3c4.jpeg)
-![IMG_1969 73](https://user-images.githubusercontent.com/116454667/235317905-de36d09c-0343-4a93-bc43-58335da13cd9.jpg)
-
-
 ## Dashboard and Tests
 ![1](https://user-images.githubusercontent.com/116454667/235317197-b9d31bf0-5017-410b-b684-71d0ab054f37.png)
 ![2](https://user-images.githubusercontent.com/116454667/235317207-fd645d64-9f3a-4ba3-a3fd-394b658750dd.png)
@@ -17,6 +12,9 @@ This is an application develop with DevExpress to see our car's data with port c
 ![4](https://user-images.githubusercontent.com/116454667/235317219-d7763670-e629-49ba-838b-5498c827a93c.png)
 ![5](https://user-images.githubusercontent.com/116454667/235317234-b0f032be-100d-4080-ba3f-9997fad34aac.png)
 
+## Devices
+![WhatsApp Image 2023-04-29 at 19 23 20](https://user-images.githubusercontent.com/116454667/235317897-74a7c742-dbf3-4935-93a3-8688a194c3c4.jpeg)
+![IMG_1969 73](https://user-images.githubusercontent.com/116454667/235317905-de36d09c-0343-4a93-bc43-58335da13cd9.jpg)
 
 ## Our VCS Team's Linkedin Profiles
 [YUNUS EMRE GÜL](https://www.linkedin.com/in/yunus-emre-gul-00/)
